@@ -1,0 +1,2 @@
+# BadgeDrawableSample
+sample for BadgeDrawable
